@@ -4,7 +4,7 @@ This script prints json file to be comfortable for reading.
 
 You can run it using following command:
 
-python pprint_json.py <path_to_json_file>
+python pprint_json.py \<path_to_json_file\>
 
 
 You can download sample file from here:
