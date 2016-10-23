@@ -3,8 +3,8 @@ import json
 
 
 def load_json_file(filepath):
-    with open(filepath, 'r', encoding="utf8") as file:
-        json_content = json.load(file)
+    with open(filepath, 'r', encoding="utf8") as input_file:
+        json_content = json.load(input_file)
     return json_content
 
 
